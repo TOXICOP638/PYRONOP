@@ -21,27 +21,27 @@ SESSION5 = getenv('SESSION5', default=None)
 # ------------- CLIENTS -------------
 
 if SESSION1:
-    M1 = Client(SESSION1, api_id=23330007, api_hash="59b6d22c9fd9538b0088fb8453234bff")
+    M1 = Client(SESSION1, api_id=25374274, api_hash="d0012f0876e6f9308eec2f474e7b9273")
 else:
     M1 = None
 
 if SESSION2:
-    M2 = Client(SESSION2, api_id=23330007, api_hash="59b6d22c9fd9538b0088fb8453234bff")
+    M2 = Client(SESSION2, api_id=25374274, api_hash="d0012f0876e6f9308eec2f474e7b9273")
 else:
     M2 = None
 
 if SESSION3:
-    M3 = Client(SESSION3, api_id=23330007, api_hash="59b6d22c9fd9538b0088fb8453234bff")
+    M3 = Client(SESSION3, api_id=25374274, api_hash="d0012f0876e6f9308eec2f474e7b9273")
 else:
     M3 = None
 
 if SESSION4:
-    M4 = Client(SESSION4, api_id=23330007, api_hash="59b6d22c9fd9538b0088fb8453234bff")
+    M4 = Client(SESSION4, api_id=25374274, api_hash="d0012f0876e6f9308eec2f474e7b9273")
 else:
     M4 = None
 
 if SESSION5:
-    M5 = Client(SESSION5, api_id=23330007, api_hash="59b6d22c9fd9538b0088fb8453234bff")
+    M5 = Client(SESSION5, api_id=25374274, api_hash="d0012f0876e6f9308eec2f474e7b9273")
 else:
     M5 = None
 
